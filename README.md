@@ -7,3 +7,8 @@ This repository is a mirror of
 https://github.com/2dshapesstructure/dataset-processing
 
 It contains all the 1255 2D meshes in the original dataset, that were cleaned from unferenced vertices and stored in the handy OBJ file format.
+
+
+
+
+For completeness, I also included the cpp code used to parse the original data, clean it and save it in OBJ, and the script for batch processing all the models. The cpp code depends on [CinoLib](https://github.com/mlivesu/cinolib).
